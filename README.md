@@ -1,6 +1,10 @@
 # flutter_mitra_ekspedisi
 
-A new Flutter project.
+[![Web-1920-1.png](https://i.postimg.cc/Z5YZ7drc/Web-1920-1.png)](https://postimg.cc/6yPDTTb2)
+
+Mitra Ekspedisi adalah aplikasi android untuk cek ongkir dari satu kota ke kota lain di wilayah 
+Indonesia menggunakan data dari API-Raja Ongkir dan dibangun dengan menggunakan framework Dart 
+yaitu sdk Flutter. Tutorial dan ulasan lebih lengkap bisa kunjungi postingan berikut ini 
 
 ## Getting Started
 
