@@ -7,6 +7,7 @@
 
 # Clone repository
  
+Jalankan command dibawah pada terminal: 
 ``` 
 git clone https://github.com/bagasstrongman/Mitra-Ekspedisi.git
   
