@@ -3,19 +3,18 @@
 [![Web-1920-1.png](https://i.postimg.cc/Z5YZ7drc/Web-1920-1.png)](https://postimg.cc/6yPDTTb2)
 
 Ulasan lebih lengkap cek postingan di berikut:
+```
 
-Clone repository :
+```
+# Clone repository
  
 ``` 
-git clone
-```
-```  
+git clone https://github.com/bagasstrongman/Mitra-Ekspedisi.git
+  
 flutter pub get
-```  
-``` 
+ 
 flutter clean
-```
-```
+
 flutter run
 ```
   
