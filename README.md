@@ -4,22 +4,21 @@
 
 Ulasan lebih lengkap cek postingan di berikut:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bagas-satria/0" alt="Recent Article 0">
-  
 Clone repository :
  
- ```
- git clone 
- ```
+``` 
+git clone
+```
+```  
+flutter pub get
+```  
+``` 
+flutter clean
+```
+```
+flutter run
+```
   
- flutter pub get
-  
- flutter clean
-  
- flutter run
- `
-  
- ```
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
 ```
