@@ -140,7 +140,11 @@ class _HomePageState extends State<HomePage> {
                     minWidth: MediaQuery.of(context).size.width * 0.9,
                     height: MediaQuery.of(context).size.width * 0.13,
                     child: RaisedButton(
-                      color: Color.fromARGB(255, 255, 156, 7),
+                      color: Color.fromARGB(255, 254, 158, 13),
+                      shape: OutlineInputBorder(
+                          borderRadius: BorderRadius.circular(10),
+                          borderSide:BorderSide.none,
+                      ),
                       onPressed: () {
                         Navigator.pushReplacement(context,
                             MaterialPageRoute(builder: (context) {
